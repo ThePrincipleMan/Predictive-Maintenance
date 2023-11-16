@@ -1,21 +1,19 @@
 # Predictive-Maintenance
 
-A ML - Mini Project for Machine Learning Course  
+
+Contributors
 
 
-Contributers
+Siddhant Gulve 
 
 
-Siddhant Gulve - 112115153
+Siddhesh Kale
 
 
-Siddhesh Kale - 112115154
+Swarup Londhe
 
 
-Swarup Londhe - 112115163
-
-
-Shravani Khade - 112115149
+Shravani Khade
 
 
 Link to dataset  -  https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/data
